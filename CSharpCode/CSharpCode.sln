@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogolTechGTSCard_6", "Goog
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileHelper_5", "FileHelper_5\FileHelper_5.csproj", "{21657046-A3D6-4984-98E5-C910BFD778FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeadShineDMCCard_7", "LeadShineDMCCard_7\LeadShineDMCCard_7.csproj", "{80F5361F-B3E9-4AC7-B1ED-129373D9D129}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{21657046-A3D6-4984-98E5-C910BFD778FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21657046-A3D6-4984-98E5-C910BFD778FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21657046-A3D6-4984-98E5-C910BFD778FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F5361F-B3E9-4AC7-B1ED-129373D9D129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F5361F-B3E9-4AC7-B1ED-129373D9D129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F5361F-B3E9-4AC7-B1ED-129373D9D129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F5361F-B3E9-4AC7-B1ED-129373D9D129}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
