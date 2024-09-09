@@ -5,9 +5,9 @@ using System.Windows;
 
 namespace FTPOperation_4
 {
-	//FTP服务器的文件上转和下载操作【软件作者：彭东南, southeastofstar@163.com】
+	//FTP服务器的文件上转和下载操作
 	/// <summary>
-	/// FTP服务器的文件上转和下载操作【软件作者：彭东南, southeastofstar@163.com】
+	/// FTP服务器的文件上转和下载操作
 	/// </summary>
 	class FTPOperation
 	{
