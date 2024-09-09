@@ -7781,5 +7781,5 @@ namespace GoogolTechGTSCard_6.GTS
 
 		}//GTSAxisControl class
 
-	}//GoogolTechGTSCard class
+	}
 }
